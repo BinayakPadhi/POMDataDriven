@@ -1,0 +1,28 @@
+20/03/2018 10:15:27 devpinoyLogger Entering 'mercury' in the 'UserName' edit field
+20/03/2018 10:15:28 devpinoyLogger Entered 'mercury' in the 'UserName' edit field
+20/03/2018 10:15:28 devpinoyLogger Entering 'mercury' in the 'Password' edit field
+20/03/2018 10:15:28 devpinoyLogger Entered 'mercury' in the 'Password' edit field
+20/03/2018 10:15:28 devpinoyLogger Clicking on 'Sign-In' Button
+20/03/2018 10:15:35 devpinoyLogger Clicked on 'Sign-In' Button
+20/03/2018 10:15:35 devpinoyLogger Clicking on 'OneWay' Trip Type
+20/03/2018 10:15:35 devpinoyLogger Clicked on 'OneWay' Trip Type
+20/03/2018 10:15:35 devpinoyLogger Selecting 'London' from 'Departure From' Dropddown
+20/03/2018 10:15:36 devpinoyLogger Selected 'London' 'Departure From' Dropdown
+20/03/2018 10:15:36 devpinoyLogger Selecting 'Paris' from 'Arrival To' dropdown
+20/03/2018 10:15:36 devpinoyLogger Selected 'Paris' from 'Arrival To' dropdown
+20/03/2018 10:15:36 devpinoyLogger Clicking on 'ClassPreference' Radio Button
+20/03/2018 10:15:36 devpinoyLogger Clicked on 'ClassPreference' Radio Button
+20/03/2018 10:15:36 devpinoyLogger Selecting 'Unified Airlines' from 'Airline Preference' dropdown
+20/03/2018 10:15:37 devpinoyLogger Selected 'Unified Airlines' from 'Airline Preference' dropdown
+20/03/2018 10:15:37 devpinoyLogger Clicking on 'CONTINUE' Button
+20/03/2018 10:15:38 devpinoyLogger Clicked on 'CONTINUE' Button
+20/03/2018 10:15:38 devpinoyLogger Clicking on 'CONTINUE' button
+20/03/2018 10:15:39 devpinoyLogger Clicked on 'CONTINUE' button
+20/03/2018 10:15:39 devpinoyLogger Entering '[[ChromeDriver: chrome on XP (c92cacc5773e2639f13b83e19f5e5e15)] -> name: passFirst0]' in the 'First Name' edit field.
+20/03/2018 10:15:40 devpinoyLogger Entered '[[ChromeDriver: chrome on XP (c92cacc5773e2639f13b83e19f5e5e15)] -> name: passFirst0]' in the 'First Name' edit field.
+20/03/2018 10:15:40 devpinoyLogger Entering 'Mahapatra' in the 'Last Name' edit field.
+20/03/2018 10:15:40 devpinoyLogger Entered 'Mahapatra' in the 'Last Name' edit field.
+20/03/2018 10:15:40 devpinoyLogger Entering '79855565' in the 'Credit Number' edit field.
+20/03/2018 10:15:40 devpinoyLogger Entered '79855565' in the 'Credit Number' edit field.
+20/03/2018 10:15:40 devpinoyLogger Clicking on 'SECURE PURCHASE' button
+20/03/2018 10:15:42 devpinoyLogger Clicked on 'SECURE PURCHASE' button
